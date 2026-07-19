@@ -131,7 +131,6 @@ async def main(argv: Sequence[str] | None = None) -> int:
 
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        "-v",
         "--version",
         action="version",
         version=_get_version(),
