@@ -5,7 +5,7 @@ build-backend = "uv_build"
 
 [project]
 name = "git-meta"
-version = "0.0.0"
+version = "0.0.1"
 description = "Check the git status of repositories in a directory."
 authors = [{name = "billwallis"}]
 readme = "README.md"
